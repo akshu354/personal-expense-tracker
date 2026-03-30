@@ -37,8 +37,7 @@ There is a need for a system that:
 
 ## Architecture
 
-- Python Script -> SQLite Database -> Export to CSV/Excel -> Power BI Dashboard -> Insights & Visualization
-
+- Python Script -> SQLite Database -> Export (CSV/Excel) -> Power BI Dashboard -> Insights
 ## Key Insights
 
 - Expenses are concentrated in specific categories like food, travel
@@ -55,7 +54,7 @@ pip install -r requirements.txt
 ```
 3. Run Python script:
 ```
-expense_tracker.py
+python src/expense_tracker.py
 ```
 4. Check the generated file in `data/`
 5. Open the Power BI dashboard from `dashboard/expense_tracker_dashboard.pbix`
@@ -67,3 +66,7 @@ expense_tracker.py
 - User authentication system
 
 ## Author
+
+Akshat Jain
+Aspiring Data Analyst| Python| SQLite| Data Visualization
+LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250

@@ -70,8 +70,6 @@ python src/expense_tracker.py
 
 ## Author
 
-Akshat Jain
-
-Aspiring Data Analyst| Python| SQLite| Data Visualization
-
+Akshat Jain  
+Aspiring Data Analyst| Python| SQLite| Data Visualization  
 LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250

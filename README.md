@@ -4,6 +4,8 @@ This project is a Personal Expense Tracker and Financial Analysis Dashboard desi
 
 ## Dashboard Preview
 
+[![Dashboard](dashboard/dashboard.png)](dashboard/expense_tracker_dashboard.pbix)
+
 ## Problem Statement
 
 Managing personal finances manually can be time-consuming, prone to errors, and challenging to analyze.
@@ -55,8 +57,8 @@ pip install -r requirements.txt
 ```
 expense_tracker.py
 ```
-4. Check the generated file in 'data/'
-5. Open the Power BI dashboard from 'dashboard/expense_tracker_dashboard.pbix'
+4. Check the generated file in `data/`
+5. Open the Power BI dashboard from `dashboard/expense_tracker_dashboard.pbix`
 
 ## Future Improvements
 

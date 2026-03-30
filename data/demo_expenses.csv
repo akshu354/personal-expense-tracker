@@ -1,0 +1,90 @@
+﻿id,date,type,category,description,amount
+1,2025-06-01,Income,Balance,Beginning of June,196394
+2,2025-06-01,Income,Business,Cash Deposit,59197
+3,2025-06-01,Income,Business,Harish Sachdeva,26223
+4,2025-06-01,Income,Bank,Intrest,1535
+5,2025-06-04,Expense,Flat,Rent,6326
+6,2025-06-13,Expense,Flat,Electricity Bill,82
+7,2025-06-15,Expense,Household,CNG,305
+8,2025-06-19,Expense,Fees,Gargi Hostel,81661
+9,2025-06-21,Expense,Household,CNG,712
+10,2025-06-23,Expense,Household,Bus Ticket,386
+11,2025-06-23,Expense,Household,Website Domain,391
+12,2025-06-23,Expense,Bank,Dheeraj Jain,199364
+13,2025-06-24,Expense,Mobile,Recharge,629
+14,2025-06-30,Expense,Travel,Bike,84
+15,2025-06-30,Expense,Food,Tiffin,62
+16,2025-06-30,Expense,Expenses,Akshat,540
+17,2025-06-25,Income,Gift,Ilu Bhai,474
+19,2025-07-04,Expense,Flat,Rent,8477
+20,2025-07-12,Expense,Flat,Electricity Bill,691
+21,2025-07-17,Expense,Travel,Bike,1421
+22,2025-07-17,Expense,Food,Tiffin,738
+23,2025-07-16,Expense,Bus Ticket,Jai to Agr,372
+24,2025-07-24,Income,Busines,Cash Deposit,38452
+25,2025-07-26,Expense,Bank,SMS Charge,14
+26,2025-07-28,Expense,Bank,Annual Debit CardFee,251
+27,2025-07-31,Expense,Expenses,Akshat,2336
+28,2025-07-17,Expense,Flat,Samaan,138
+29,2025-08-04,Expense,Flat,Rent,8416
+30,2025-08-17,Expense,Flat,Electricity Bill,1298
+31,2025-08-18,Expense,Personal,Mobile Recharge,442
+32,2025-08-26,Expense,Personal,Bed Table,458
+33,2025-08-31,Expense,Food,Tiffin,252
+34,2025-08-28,Expense,Travel,Bike,64
+35,2025-08-31,Expense,Flat,Samaan,78
+36,2025-08-31,Expense,Expenses,Akshat,2069
+37,2025-09-05,Expense,Flat,Rent,10131
+38,2025-09-06,Income,Business,Cash Deposit,38845
+39,2025-09-14,Expense,Personal,DMart,266
+40,2025-09-16,Expense,Flat,Electricity Bill,1167
+41,2025-09-17,Expense,Personal,Mobile Recharge,487
+42,2025-09-30,Income,Flat,Samaan,78
+43,2025-09-30,Expense,Food & Travel,Tiffin & Bike,3648
+44,2025-09-26,Income,Bank,Intrest,343
+45,2025-09-30,Expense,Expenses,Akshat,2882
+46,2025-10-05,Expense,Flat,Rent,6925
+47,2025-10-06,Income,Business,Cash Deposit,44550
+48,2025-10-07,Expense,Personal,Bus Ticket,405
+49,2025-10-08,Expense,Personal,Medicine,43
+50,2025-10-10,Expense,Personal,Zepto,115
+51,2025-10-13,Expense,Personal,,505
+52,2025-10-16,Expense,Flat,Electricity Bill,2685
+53,2025-10-26,Expense,Household,CNG,525
+54,2025-10-26,Expense,Personal,Akshat Medicine,529
+55,2025-10-28,Income,Business,Bank Deposit,63180
+56,2025-10-31,Expense,Food & Travel,Tiffin & Bike,3183
+57,2025-10-31,Expense,Expenses,Akshat,2545
+58,2025-11-08,Expense,Flat,Rent,5933
+59,2025-11-16,Expense,Personal,Stationary,157
+60,2025-11-17,Expense,Business,RTGS(Dheeraj Jain),68165
+61,2025-11-17,Expense,Bank,RTGS Charge,5
+62,2025-11-18,Expense,Flat,Electricity Bill,626
+63,2025-11-21,Income,Business,Cash Deposit,16798
+64,2025-11-22,Expense,Personal,Zepto,448
+66,2025-11-30,Expense,Food & Travel,Tiffin & Bike,3508
+67,2025-11-30,Expense,Expenses,Akshat,2017
+68,2025-12-09,Expense,Personal,Recharge,668
+69,2025-12-09,Expense,Personal,Mobile Recharge,276
+70,2025-12-14,Expense,Flat,Rent,10095
+71,2025-12-14,Expense,Flat,Electricity Bill,296
+72,2025-12-27,Income,Bank,Intrest,970
+73,2025-12-27,Expense,Personal,Cab,5000
+74,2025-12-31,Expense,Food & Travel,Tiffin & Bike,2919
+75,2025-12-31,Expense,Expenses,Akshat,1300
+76,2026-01-10,Expense,Flat,Electricity Bill,391
+77,2026-01-22,Expense,Household,Mumbai-Pune,2456
+78,2026-01-24,Expense,Household,Jaipur,1870
+81,2026-01-10,Income,Flat,Security,9519
+82,2026-01-21,Income,Personal,Ritika Bhabhi,350
+83,2026-01-31,Expense,Expenses,Akshat,1821
+84,2026-01-26,Expense,Household,Ilu Bhai Anniversary,310
+85,2026-02-04,Expense,Personal,Mobile Recharge,374
+86,2026-02-07,Expense,Household,Vegetables,227
+87,2026-02-08,Income,personal,Palash Bhai,317
+88,2026-02-08,Expense,Household,Gopal Sweet House,402
+89,2026-02-09,Expense,Household,Platform Ticket,17
+90,2026-02-10,Income,Business,Rakesh Bajaj,21940
+92,2026-02-12,Expense,Bank,SMS Charge,15
+93,2026-02-26,Expense,Bank,SMS Charge,16
+94,2026-02-28,Expense,Expenses,Akshat,2559

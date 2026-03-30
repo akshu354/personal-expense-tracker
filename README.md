@@ -1,6 +1,9 @@
 # Expense Tracker & Financial Dashboard
 
-This project is a Personal Expense Tracker and Financial Analysis Dashboard designed to track income and expenses, analyze spending patterns, and generate actionable insights.
+- Built an end-to-end expense tracking system using Python, SQLite, and Power BI
+- Automated data storage and processing using a SQLite database
+- Developed an interactive dashboard to analyze income, expenses, and spending trends
+- Generated insights on category-wise spending and monthly financial patterns
 
 ## Dashboard Preview
 
